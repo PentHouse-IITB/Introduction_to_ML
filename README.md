@@ -1,1 +1,10 @@
 # Introduction_to_ML
+
+Hello everyone.This project is aimed at giving you a basic taste of what machine learning has to offer. The only pre-requisite would be a little understading of python. The flow of this project would be as follows :
+1. Short introduction to machine learning techniques using online softwares and articles
+2. Getting used to the relevant python libraries such as scikit-learn, pandas, matplotlib
+3. Applying the concepts learnt into simple real world applications
+
+Let's start with some theory behind machine learning first. Our technical council held a machine learning session which was taken by Ritik Bilala. You can go through the material covered [here](https://drive.google.com/drive/folders/1xGDtY3DcUAYpXpMeendLdJQtwYf4Ph55?usp=sharing). This[https://towardsdatascience.com/machine-learning-an-introduction-23b84d51e6d0] is another article explaining some terminologies. Some of the common machine learning algorithms are mentioned [here](https://towardsdatascience.com/a-tour-of-machine-learning-algorithms-466b8bf75c0a).[Sentdex's machine learning playlist](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v) also covers a wide range of concepts and tutorials
+
+After you are well versed with the basics we can get our hands dirty and start some coding. For this project we'll be making use of libraries such as scikitlearn, pandas, matplotlib. Please note that as the project is not of a very long duration don't spend a lot of time focusing on libraries other than scikit-learn. [Scikit-learn official guide](https://scikit-learn.org/stable/user_guide.html) has the best documentation and tutorials available for scikit-learn. I would suggest just going through the documentation of other libraries as that would give you a sufficient base to get started. Also go through the python notebooks from the machine learning session as they involve a variety of interesting problem statements and insightful tips which would be very helpful when you start modelling.
